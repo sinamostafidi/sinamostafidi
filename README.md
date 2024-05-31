@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sina</h1>
 <h3 align="center">A Data Science Intern</h3>
 
-- 🔭 I’m currently working on **Covid-19 Data Science project**
-
 - 📫 How to reach me **sina.mostafidi@gmail.com**
 
 - 📄 Know about my experiences [https://shorturl.at/LAzb8](https://shorturl.at/LAzb8)
