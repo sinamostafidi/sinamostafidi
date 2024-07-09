@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **sina.mostafidi@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/LAzb8](https://shorturl.at/LAzb8)
+- 📄 Know about my experiences 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
