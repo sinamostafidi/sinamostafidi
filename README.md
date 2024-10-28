@@ -12,3 +12,8 @@ in a full-time role, contribute to impactful projects and continue to grow profe
 <p align="left">
 <a href="https://linkedin.com/in/sinamostafidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sinamostafidi" height="30" width="40" /></a>
 </p>
+<p align="left">
+    <a href="https://join.skype.com/AA31acQJI2hb" target="_blank">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Skype_logo.svg/1200px-Skype_logo.svg.png" alt="Join Skype" height="30" width="40" />
+    </a>
+</p>
