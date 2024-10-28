@@ -4,7 +4,12 @@
 As a junior data scientist who has completed an internship, I have expertise in data analysis, machine learning,
 deep learning, statistical modeling, data visualization, data wrangling and big data. I'm eager to apply my skills
 in a full-time role, contribute to impactful projects and continue to grow professionally.
-- 📫 How to reach me **sina.mostafidi@gmail.com**
+- 📫 How to reach me
+<p align="left">
+    <a href="mailto:sina.mostafidi@gmail.com" target="_blank">
+        <img align="center" src="https://i.postimg.cc/43kK4H2K/google-mail-envelope-gmail-illustration-icon-701751695132430lzudrzjrez.png" alt="Email Sina Mostafidi" height="30" width="40" />
+    </a>
+</p>
 
 - 📄 Know about my experiences 
 <p align="left">
