@@ -7,7 +7,7 @@ in a full-time role, contribute to impactful projects and continue to grow profe
 - 📫 How to reach me
 <p align="left">
     <a href="mailto:sina.mostafidi@gmail.com" target="_blank">
-        <img align="center" src="https://www.citypng.com/public/uploads/preview/black-white-hd-gmail-envelope-symbol-logo-icon-701751695128063hxrnnaoxp0.png" alt="Email Sina Mostafidi" height="30" width="40" />
+        <img align="center" src="https://www.citypng.com/public/uploads/preview/black-white-hd-gmail-envelope-symbol-logo-icon-701751695128063hxrnnaoxp0.png" alt="Email Sina Mostafidi" height="100" width="100" />
     </a>
 </p>
 
