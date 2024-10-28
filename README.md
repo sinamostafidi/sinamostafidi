@@ -9,7 +9,7 @@ in a full-time role, contribute to impactful projects and continue to grow profe
 - 📄 Know about my experiences 
 <p align="left">
     <a href="https://docs.google.com/presentation/d/1pNe1LjMJa7T5zoS1C5xT0YLKXAwAee39-YYcnejQYFY/edit?usp=sharing" target="_blank">
-        <img align="center" src="https://i.postimg.cc/mk7K7qNN/Png-Item-1841459.png" alt="Resume" height="30" width="40" />
+        <img align="center" src="https://i.postimg.cc/mk7K7qNN/Png-Item-1841459.png" alt="Resume" height="300" width="400" />
     </a>
 </p>
 
