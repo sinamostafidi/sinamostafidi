@@ -14,6 +14,6 @@ in a full-time role, contribute to impactful projects and continue to grow profe
 </p>
 <p align="left">
     <a href="https://join.skype.com/AA31acQJI2hb" target="_blank">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Skype_logo.svg" alt="Join Skype" height="30" width="40" />
+        <img align="center" src="https://seeklogo.com/images/S/skype-logo-F4A7960445-seeklogo.com.png" alt="Join Skype" height="30" width="40" />
     </a>
 </p>
