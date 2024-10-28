@@ -9,7 +9,7 @@ in a full-time role, contribute to impactful projects and continue to grow profe
     <a href="mailto:sina.mostafidi@gmail.com" style="text-decoration: none;">
         <img src="https://i.postimg.cc/NMmT6qL0/vecteezy-google-gmail-logo-symbol-white-design-vector-illustration-21515060.jpg" alt="Email Sina Mostafidi" height="100" width="100" />
     </a>
-    <span style="margin-left: 10px; font-size: 20px;">sina.mostafidi@gmail.com</span>
+    <span style="margin-left: 50px; font-size: 40px;">sina.mostafidi@gmail.com</span>
 </p>
 
 - 📄 Know about my experiences 
