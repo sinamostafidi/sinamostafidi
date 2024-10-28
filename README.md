@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sina</h1>
+<h1 align="center">Hi 👋, I'm Sina Mostafidi</h1>
 <h3 align="center">Junior Data Scientist</h3>
 
 - 📫 How to reach me **sina.mostafidi@gmail.com**
