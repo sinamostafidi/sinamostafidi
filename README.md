@@ -7,6 +7,11 @@ in a full-time role, contribute to impactful projects and continue to grow profe
 - 📫 How to reach me **sina.mostafidi@gmail.com**
 
 - 📄 Know about my experiences 
+<p align="left">
+    <a href="https://docs.google.com/presentation/d/1pNe1LjMJa7T5zoS1C5xT0YLKXAwAee39-YYcnejQYFY/edit?usp=sharing" target="_blank">
+        <img align="center" src="https://files.fm/u/f4kvhynh2x" alt="Resume" height="30" width="40" />
+    </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
