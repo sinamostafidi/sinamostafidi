@@ -6,7 +6,7 @@ deep learning, statistical modeling, data visualization, data wrangling and big 
 in a full-time role, contribute to impactful projects and continue to grow professionally.
 - 📫 How to reach me
 <p align="left">
-    <a href="mailto:sina.mostafidi@gmail.com">
+    <a href="mailto:sina.mostafidi@gmail.com" style="text-decoration: none;">
         <img src="https://i.postimg.cc/NMmT6qL0/vecteezy-google-gmail-logo-symbol-white-design-vector-illustration-21515060.jpg" alt="Email Sina Mostafidi" height="100" width="100" style="display: block; margin: auto;" />
     </a>
 </p>
