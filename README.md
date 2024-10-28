@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sina Mostafidi</h1>
 <h3 align="center">Junior Data Scientist</h3>
 
+As a junior data scientist who has completed an internship, I have expertise in data analysis, machine learning,
+deep learning, statistical modeling, data visualization, data wrangling and big data. I'm eager to apply my skills
+in a full-time role, contribute to impactful projects and continue to grow professionally.
 - 📫 How to reach me **sina.mostafidi@gmail.com**
 
 - 📄 Know about my experiences 
